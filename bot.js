@@ -1,7 +1,7 @@
 const mineflayer = require('mineflayer');
 
-const HOST = "ap1.nxb.nexuscloud.asia";
-const PORT = 25999;
+const HOST = "ap1.nxp.sg.nexuscloud.asia";
+const PORT = 25600;
 const BOT_COUNT = 10; // coba 10 dulu dulu biar aman
 const JOIN_DELAY = 5000; // 5 detik antar bot
 const TARGET_SERVER = "ecocpvp"; // nama backend di Velocity
